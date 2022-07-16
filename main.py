@@ -40,6 +40,7 @@ if __name__ == '__main__':
     # x = int(input("Please guess the number between 1 and: "))
     # guess(x)
 
+    print("A print")
     comp_guess(1,16)
 
 
